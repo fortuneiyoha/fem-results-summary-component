@@ -105,7 +105,8 @@ body {
   text-align: center;
 }
 
-.card-results-header > p:first-child {
+.card-results-header > h2:first-child {
+  font-weight: 500;
   font-size: 1.125rem;
 }
 
@@ -139,7 +140,7 @@ body {
   justify-content: space-between;
 }
 
-.card-summary-header > p:first-child {
+.card-summary-header > h2:first-child {
   font-size: 1.125rem;
   font-weight: 700;
 }

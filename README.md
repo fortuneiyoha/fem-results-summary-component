@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- **Solution:** [Frontend Mentor - Results summary component solution](https://www.frontendmentor.io/solutions/...) 🛠️
+- **Solution:** [Frontend Mentor - Results summary component solution](https://www.frontendmentor.io/solutions/results-summary-component-MsdQzKdVV7) 🛠️
 - **Live Site:** [View Live Site](https://fem-results-summary-component.pages.dev/) 🌐✨
 
 ## My process
